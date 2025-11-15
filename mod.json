@@ -25,6 +25,7 @@
 	"translations" : [
 		"config/vcmi-norwegian/game.json",
 		"config/vcmi-norwegian/maps.json",
-		"config/vcmi-norwegian/campaigns.json"
+		"config/vcmi-norwegian/campaigns.json",
+		"config/vcmi-norwegian/chronicles.json"
 	]
 }
