@@ -1,0 +1,15 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "norwegian",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-norwegian-ai/campaigns.json",
+		"config/vcmi-norwegian-ai/game.json",
+		"config/vcmi-norwegian-ai/maps.json",
+		"config/vcmi-norwegian-ai/chronicles.json"
+	]
+}
